@@ -116,3 +116,7 @@ int main(){
 }
 ```
 ## Output
+<br> No. 1 <br>
+<img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/UAS%20DASPROG%20NO%201.png">
+<br> No. 2 <br>
+<img src= "https://github.com/AhmadBadruAlHusaeni/UASahmadbadrualhusaeni/blob/main/UAS%20DASPROG%20NO%202.png">
